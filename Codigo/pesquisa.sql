@@ -18,4 +18,4 @@ DROP TABLE Funcionario
 
 DROP TABLE Internacoes
 
-DROP DATABASE Hospital
+DROP DATABASE Hospitais
